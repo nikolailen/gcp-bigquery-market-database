@@ -1,6 +1,6 @@
 # Cloud Database for Market Analysis of Electric Vehicle Powertrain Components
 
-- 🌐 [Project page](https://github.com/nikolailen/gcp-ev-powertrain-database/blob/main/high_overview_presentation_git.pdf)
+- 🌐 [Project page](https://github.com/nikolailen/gcp-manufacturing-market-database/blob/main/high_overview_presentation_git.pdf)
 - 👤 Project contact: [Nikolai Len](https://www.linkedin.com/in/niklen/)
 
 ## Project Overview
@@ -87,5 +87,4 @@ For more information, please refer to the [PDF presentation](high_overview_prese
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
 
