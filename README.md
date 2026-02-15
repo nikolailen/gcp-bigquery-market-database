@@ -1,5 +1,8 @@
 # Cloud Database for Market Analysis of Electric Vehicle Powertrain Components
 
+- 🌐 [Project page](https://github.com/nikolailen/gcp-ev-powertrain-database/blob/main/high_overview_presentation_git.pdf)
+- 👤 Project contact: [Nikolai Len](https://www.linkedin.com/in/niklen/)
+
 ## Project Overview
 
 This project aims to develop an advanced cloud-based database for analyzing the market of electric vehicle powertrain components. The database is designed to provide insights into global vehicle sales and powertrain components, offering detailed analysis based on various electrification types, regional distributions, and market share distributions among suppliers.
